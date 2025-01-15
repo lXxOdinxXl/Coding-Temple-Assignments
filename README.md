@@ -42,10 +42,10 @@ Welcome to To-Do List Application!
 ---
 
 ## Error Handling
-  # Invalid Input: If you enter an invalid menu option or task number, the program will alert you and prompt you to try again.
-  # Empty Task List: The program will notify you if you try to view or delete tasks when the list is empty.
-  # Task Deletion: If you attempt to delete a task using an invalid number, the program will notify you.
-  # The program uses `try`, `except`, and `finally` blocks to handle errors and ensure smooth execution.
+  - Invalid Input: If you enter an invalid menu option or task number, the program will alert you and prompt you to try again.
+  - Empty Task List: The program will notify you if you try to view or delete tasks when the list is empty.
+  - Task Deletion: If you attempt to delete a task using an invalid number, the program will notify you.
+  - The program uses `try`, `except`, and `finally` blocks to handle errors and ensure smooth execution.
 
 ---
 
