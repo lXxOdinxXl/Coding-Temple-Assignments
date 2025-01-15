@@ -6,10 +6,10 @@ The To-Do List Application is a simple command-line tool to help users manage th
 ---
 
 ## Features:
-  # Add Tasks: Allows users to add tasks to their to-do list.
-  # View Tasks: Displays the tasks in a neatly numbered format.
-  # Delete Tasks: Removes a task from the list based on the task number.
-  # Quit: Exits the application gracefully.
+  - Add Tasks: Allows users to add tasks to their to-do list.
+  - View Tasks: Displays the tasks in a neatly numbered format.
+  - Delete Tasks: Removes a task from the list based on the task number.
+  - Quit: Exits the application gracefully.
 
 ---
 
@@ -61,10 +61,10 @@ The application is organized into functions for clarity and maintainability:
 
 
 ## Future Enhancements
-# Save tasks to a file for persistence.
-# Allow task editing.
-# Add task priorities or deadlines.
-# Develop a graphical user interface (GUI).
+- Save tasks to a file for persistence.
+- Allow task editing.
+- Add task priorities or deadlines.
+- Develop a graphical user interface (GUI).
 
 ---
 
